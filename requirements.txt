@@ -1,0 +1,5 @@
+pyspark>=3.0.1
+numpy~=1.19.5
+
+# This wrapper requires that the original ASMOTE jar file with the Scala implementation is present in the Spark classpath
+# Maven coordinates or the original SMOTE: mjuez:approx-smote:1.1.0
