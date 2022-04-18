@@ -12,7 +12,7 @@ For the wrapper to work, the JAR file must be present in the Spark classpath.
 
 ```shell
 git clone https://github.com/olbapjose/pyspark-approx-smote
-cd pyspark-approx-smote
+cd pyspark_approx_smote
 pip install -e .
 ```
 
